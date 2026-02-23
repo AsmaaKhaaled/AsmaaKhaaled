@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=[اسم_المستخدم_الخاص_بكِ].[اسم_المستخدم_الخاص_بكِ]">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=[AsmaaKhaaled].[AsmaaKhaaled]">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -49,12 +49,12 @@
 <br>
 <p align=center>
   <div align=center>
-    <img align="left" width=390 src="https://streak-stats.demolab.com/?user=[اسم_المستخدم_الخاص_بكِ]&theme=radical&hide_border=true" />
-    <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=[اسم_المستخدم_الخاص_بكِ]&show_icons=true&theme=radical&hide_border=true" />
+    <img align="left" width=390 src="https://streak-stats.demolab.com/?user=[AsmaaKhaaled]&theme=radical&hide_border=true" />
+    <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=[AsmaaKhaaled]&show_icons=true&theme=radical&hide_border=true" />
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[اسم_المستخدم_الخاص_بكِ]&layout=compact&theme=radical&hide_border=true" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[AsmaaKhaaled]&layout=compact&theme=radical&hide_border=true" />
   </div>
 </p>
 
@@ -63,10 +63,10 @@
 <h2 align="center">👨‍💻 Featured Projects 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a href="https://github.com/[اسم_المستخدم]/NursiQue">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=[اسم_المستخدم]&repo=NursiQue&theme=radical" />
+  <a href="https://github.com/[AsmaaKhaaled]/NursiQue">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=[AsmaaKhaaled]&repo=NursiQue&theme=radical" />
   </a>
-  <a href="https://github.com/[اسم_المستخدم]/GEAR-Zone">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=[اسم_المستخدم]&repo=GEAR-Zone&theme=radical" />
+  <a href="https://github.com/[AsmaaKhaaled]/GEAR-Zone">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=[AsmaaKhaaled]&repo=GEAR-Zone&theme=radical" />
   </a>
 </div>
