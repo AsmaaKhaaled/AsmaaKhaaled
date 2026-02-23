@@ -1,13 +1,13 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=[AsmaaKhaaled].[AsmaaKhaaled]">
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Asmaa+Khaled!+👋;Junior+Angular+Developer...;Frontend+%26+Mobile+Enthusiast!&center=true&size=30&color=DD0031">
+   <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Asmaa+Khaled....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/asmaakhaled-youssef/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="[https://www.linkedin.com/in/asmaakhaled-youssef/](https://www.linkedin.com/in/asmaa-khaled-22a299183)" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg"> LinkedIn</a></code>
   <code><a href="mailto:asmaakhaled.youssef@gmail.com" title="Email Me"><img width="22" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg"> Email</a></code>
 </h5>
 <br>
